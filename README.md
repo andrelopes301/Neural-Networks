@@ -1,6 +1,6 @@
 # Neural Networks
 
-## Trabalho de Conhecimento e Raciocínio 2020/2021 
+## Project made for 'Conhecimento e Raciocínio' at ISEC 2020/2021 
 
 ### Required
 - MATLAB
